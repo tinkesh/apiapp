@@ -1,0 +1,3 @@
+<h2>Welcome to Devise App</h2>
+
+<%= link_to "Sign in", new_session_path(User) %><br />
